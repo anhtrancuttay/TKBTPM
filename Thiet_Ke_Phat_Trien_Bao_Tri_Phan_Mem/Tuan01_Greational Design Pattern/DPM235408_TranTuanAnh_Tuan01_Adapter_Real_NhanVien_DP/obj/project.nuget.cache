@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "B4Joo7QBzuk=",
+  "success": true,
+  "projectFilePath": "d:\\Tuan02\\Thiet_Ke_Phat_Trien_Bao_Tri_Phan_Mem\\Tuan01_Greational Design Pattern\\DPM235408_TranTuanAnh_Tuan01_Adapter_Real_NhanVien_DP\\DPM235408_TranTuanAnh_Tuan01_Adapter_Real_NhanVien_DP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tuana\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.31\\microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\tuana\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.31\\microsoft.windowsdesktop.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\tuana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.31\\microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\tuana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.31\\microsoft.netcore.app.host.win-x64.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
